@@ -1,14 +1,14 @@
-* Calculer du produit de deux nombres *
+* Calcul de la soustraction de deux nombres *
 
-Variables: 
-	a  type reel
+Variables:
+	a type reel
 	b type reel
 	c type reel 
 Debut:
 	AFFICHAGE "Entrez la valeur de a"
-	LIRE (a)
+	Lire (a)
 	AFFICHAGE "Entrez la valeur de b"
 	LIRE (b)
-	c ← a*b
+	c ← a-b
 	AFFICHAGE "Valeur de c"
 Fin

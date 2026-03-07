@@ -1,0 +1,14 @@
+* Calcul de la surface d'un triangle *
+
+Variables:
+	h type entier
+	b type entier 
+	s type entier 
+Debut:
+	AFFICHAGE "Entrez la valeur de la hauteur du triangle"
+	LIRE(h)
+	AFFICHAGE "Entrez la valeur de la base du triangle"
+	LIRE(b)
+	s ← (h*b)/2
+	AFFICHER "Valeur de h "
+Fin

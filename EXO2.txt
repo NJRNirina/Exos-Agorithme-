@@ -1,0 +1,14 @@
+* Calcul de la division entre deux nombres *
+
+Variables:
+	x type reel
+	y type reel 
+	z type reel 
+Debut:
+	AFFICHAGE "Entrez la valeur de x"
+	LIRE (x)
+	AFFICHAGE "Entrez la valeur de y"
+	LIRE (b)
+	z ← a/b
+	AFFICHAGE "Valeur de c" 
+Fin

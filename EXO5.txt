@@ -1,0 +1,14 @@
+* Calcul de l'aire d'un disque *
+
+Variables:
+	r type entier
+	a type entier 
+Debut:
+	AFFICHAGE "Entrez la valeur du rayon r"
+	LIRE (r)
+	a ← r*r*3.14
+	AFFICHAGE "Valeur de l'aire",a
+Fin
+	
+	
+	

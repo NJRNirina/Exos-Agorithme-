@@ -1,0 +1,17 @@
+* Calcul de la moyenne de trois nombres *
+
+Variables :
+	a type nombre
+	b type nombre
+	c type nombre
+	m type nombre
+Debut : 
+	AFFICHER "Entrez la valeur de a"
+	LIRE (a)
+	AFFICHER "Entrez la valeur de b"
+	LIRE (b)
+	AFFICHER "Entrez la valeur de c"
+	LIRE (c)
+	m ← (a+b+c)/3
+	AFFICEHR "La valeur de m"
+FIN

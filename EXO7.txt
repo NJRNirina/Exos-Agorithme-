@@ -1,0 +1,11 @@
+* Calcul du carre d'un nombre *
+
+Variables:
+	a type nombre 
+	b type nombre
+Debut:
+	AFFICHAGE "Entrez la valeur de a"
+	LIRE (a)
+	b ← a*a
+	AFFICHAGE "La valeur de b"
+Fin

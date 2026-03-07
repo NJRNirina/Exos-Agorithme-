@@ -1,0 +1,17 @@
+* Saisie du nom, prénom et l'âge d'une personne *
+
+Variables:
+	name type chaine de caractères 
+	first_name type chaine de caractères 
+	age type entier 
+Debut:
+	AFFICHAGE "Entrez votre nom"
+	LIRE (name)
+	AFFICHAGE "Entrez votre prenom"
+	LIRE (first_name)
+	AFFICHAGE "Entrez votre age"
+	LIRE (age)
+	AFFICHER "Nom: + name"
+	AFFICHER "Prenom: + first_name"
+	AFFICHER "Age: + age"
+FIN
