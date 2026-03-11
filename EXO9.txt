@@ -1,0 +1,11 @@
+* Calcul du périmètre d'un carré *
+
+Variables:
+	a type entier
+	s type entier
+Debut:
+	AFFICHAGE "Entrez la valeur de a "
+	LIRE(a)
+	s ← a*4
+	AFFICHAGE " Le perimetre est de",s
+Fin 
