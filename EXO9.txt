@@ -1,0 +1,12 @@
+* Determiner si une personne est majeure ou mineure "
+
+Variables: 
+	a type entier 
+Debut:
+	AFFICHAGE "Entrez l'âge"
+	LIRe (a)
+	Si a >17 alors
+		AFFiCHAGE "La personne est majeure"
+	Sinon
+		AFFICHAGE "La personne est mineure"
+Fin
